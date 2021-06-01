@@ -1,0 +1,23 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #bcdfe2;
+}
+a {
+  text-decoration: none;
+  color: rgb(82, 148, 192);
+}
+
+a:hover {
+  text-decoration: none;
+  color: rgb(67, 87, 100);
+}
+
+hr {
+  border-color: #008ec2;
+  width: 10%;
+  border-width: 3px;
+}
+
+section {
+  padding-top: 5rem;
+}
